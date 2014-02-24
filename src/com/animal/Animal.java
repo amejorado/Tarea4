@@ -7,6 +7,7 @@
 import javax.swing.ImageIcon;
 import java.awt.Image;
 import java.awt.Rectangle;
+import java.awt.Button;
 
 public class Animal {
 	
